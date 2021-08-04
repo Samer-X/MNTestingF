@@ -1,0 +1,9 @@
+data\LoadProperties.class
+utilities\Helper.class
+runners\TestRunner.class
+allure\TestListener.class
+tests\TestBase.class
+data\ExcelReader.class
+data\JsonDataReader.class
+tests\UserRegistrationTest.class
+steps\UserRegistration.class
